@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/coinglass",
   "title": "Coinglass",
   "description": "CoinGlass MCP — wraps the CoinGlass Derivatives API v4 (coinglass.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/coinglass",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-coinglass",
