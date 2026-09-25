@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-coinglass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CoinGlass MCP — wraps the CoinGlass Derivatives API v4 (coinglass.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-43850b52c711e19c08919fdb58e3afd6b515f5c684a96eab5eb14bf0a335f5ec",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c1cfabc674457b728e31389e8a00310e38a53ff327a66438865f4830db6f0f2a",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
